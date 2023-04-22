@@ -1,10 +1,9 @@
-# this is a test
+# this is a simples CV style Website
 
-## theAllAndEverything
-This is a repo for short examples and test code.
+[the hosted webpage](https://luiscmoreira.github.io/theCVwebsite)
+## Content
+It may be updated in the future as a complement to my cv.
 
 ### Notes
-- this was done as an example
+- this started as an example for an html page to deploy in github.
 
-
-![Screenshot](images/bg.jpg)
